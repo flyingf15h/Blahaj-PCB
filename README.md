@@ -8,7 +8,7 @@ pcb view
 
 3d view
 
-![blahaj 3d view](https://github.com/user-attachments/assets/5816c7e0-c24a-4cec-a364-9c1780b819cc)
+![blahaj 3d view](https://github.com/user-attachments/assets/4e485d52-aa7b-4114-9b46-f87e68c01482)
 
 
 schematic
