@@ -3,12 +3,12 @@ cute blahaj shaped pcb on KiCAD
 
 pcb view
 
-![blahaj pcb](https://github.com/user-attachments/assets/9ff68de9-2d5c-40be-ba7b-2afed67fdb4d)
+![image](https://github.com/user-attachments/assets/be3b37db-6984-4f63-a46b-3c750732f98c)
 
 
 3d view
 
-![blahaj 3d view](https://github.com/user-attachments/assets/4e485d52-aa7b-4114-9b46-f87e68c01482)
+![image](https://github.com/user-attachments/assets/26cf34bf-92f9-4ea6-b870-033c998d4f4a)
 
 
 schematic
